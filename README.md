@@ -1,2 +1,1 @@
-# bank-customer-segmentation-churn
-Customer Segmentation &amp; Churn Pattern Analytics in European Banking using data analysis, customer segmentation, and visualization to identify high-risk customer groups and churn drivers.
+A data-driven customer segmentation and churn analysis project for European banking that identifies high-risk customer groups using behavioral and financial attributes. The analysis enables targeted retention strategies through insights derived from geography, age, activity status, and account balance patterns.
